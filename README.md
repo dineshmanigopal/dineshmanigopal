@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Mani Gopal</h1>
-<h3 align="center">Embedded Systems | IoT | DSP | VLSI Enthusiast</h3>
+<h3 align="center">Engineering Graduate (ECE) | VLSI · RTL Design · Embedded Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dineshmanigopal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,11 +9,14 @@
 
 ## 💡 About Me
 
-* 🎓 Electronics & Communication Engineering Student
-* 🔬 Focused on **Embedded Systems, IoT, DSP & VLSI Design**
-* ⚙️ Hands-on experience with **Arduino, ESP32, sensors & communication protocols**
-* 🧠 Currently working on **Processor Design & Advanced DSP Architectures**
-* 🚀 Passionate about building **real-time intelligent systems**
+* 🎓 B.Tech – Electronics & Communication Engineering (GPA: 8.6)
+* 🏢 Currently interning at **DRDO-LRDE** (Feb 2026 – Present)
+* 🔬 Focused on **VLSI Design, RTL Development & Embedded Systems**
+* ⚙️ Hands-on experience with **Verilog/VHDL, FPGA, ASIC flow & communication protocols**
+* 🧠 Designed a **custom 32-bit processor core** in Verilog HDL
+* 🚀 Passionate about bridging **hardware design and intelligent systems**
+
+> *"To obtain a challenging position in VLSI / Embedded Systems domain where I can apply my knowledge of RTL design, processor architecture, and embedded programming to contribute effectively to organisational growth while continuously enhancing my technical expertise."*
 
 ---
 
@@ -22,51 +25,86 @@
 ### 👨‍💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
-### 🔌 Embedded & Hardware
+`C` · `C++` · `Python (Basic)`
+
+### 🔧 HDL & Digital Design
+
+* **Verilog, VHDL** (exposure to SystemVerilog basics)
+* RTL Design & Verification · FPGA Implementation · ASIC Design Flow
+* CMOS Logic Design · Timing Analysis · Sequential & Combinational Circuits
+
+### 🔌 Embedded & Communication Protocols
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-* Arduino, ESP32
-* UART, I2C, SPI
-* Sensors, RTC, EEPROM
+* UART · SPI · I2C
+* Embedded Systems · IoT Fundamentals
+* Network Analysis · Signals & Systems · Power Supplies · Circuit Debugging
 
-### 🧰 Tools & Technologies
+### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
-* MATLAB, Xilinx, CST
+* Xilinx Vivado · Arduino IDE
 
 ---
 
 ## 📂 Featured Projects
 
-### 🩺 Smart PillBox System
+### 🖥️ Custom 32-bit Processor Core – VLSI *(Jun 2025 – Jul 2025)*
 
-* 💊 Smart medication system using Arduino Mega & ESP-01
-* ⏰ RTC-based scheduling & IR pill detection
-* 📡 Bluetooth alerts + SOAP-based server communication
-* 💾 EEPROM-based credential storage
-
----
-
-### 📡 Antenna Array Optimization
-
-* 📶 Beamforming using **Genetic Algorithm in MATLAB**
-* 📉 Reduced sidelobe levels & improved radiation pattern
+* Designed and implemented a full **32-bit processor core in Verilog HDL**
+* Implemented complete instruction cycle: **Fetch → Decode → Execute → Memory**
+* Performed RTL design, synthesis, and functional verification using testbenches
 
 ---
 
-### 🚁 Drone Systems
+### 🔥 GasGuard: IoT-based Kitchen Security System *(May 2024 – Jun 2024)*
 
-* 🛸 Hands-on experience with drone hardware
-* ⚙️ Embedded control and system integration
+* Developed an IoT safety system using **gas, smoke, and temperature sensors**
+* Integrated **real-time alerts** through microcontroller-based processing
+
+---
+
+### ☀️ Dual Axis Solar Tracker *(May 2022 – Oct 2022)*
+
+* Designed a motorised solar tracking system using **LDR sensors**
+* Improved energy efficiency by approximately **30%** compared to static panels
+
+---
+
+## 💼 Experience
+
+| Organisation | Role | Duration |
+|---|---|---|
+| **DRDO-LRDE** | Intern | Feb 2026 – Present |
+| **Cranes Varsity** | Summer Intern | Jun 2025 |
+| **BSNL** | Junior Engineer Trainee | Dec 2022 – May 2023 |
+
+---
+
+## 🏅 Certifications
+
+* 🐍 **Python Essentials** – Cisco NetAcad
+* 🔌 **Introduction to Embedded Systems** – ARM
+* 🔲 **Digital Design & System Design through Verilog** – NPTEL
+
+---
+
+## 🎓 Education
+
+| Qualification | Institute / Board | Score |
+|---|---|---|
+| B.Tech – ECE | — | GPA: 8.6 |
+| Diploma – ECE | SBTET | 93% |
+| 10th Grade | Sri Chaitanya E.M School | 92% |
 
 ---
 
@@ -89,9 +127,9 @@
 
 ## 🌱 Currently Learning
 
-* Advanced VLSI Design
-* Digital Signal Processing Architectures
-* Custom 8-bit Processor Design (Verilog)
+* Advanced VLSI & ASIC Design Flow
+* RTL Design & Formal Verification
+* SystemVerilog for Design & Verification
 
 ---
 
@@ -99,17 +137,18 @@
 
 <p>
   📧 Email: dineshmanigopal.gidda@gmail.com <br>
-  💼 LinkedIn: https://linkedin.com/in/dineshmanigopal
+  💼 LinkedIn: https://linkedin.com/in/dineshmanigopal <br>
+  🐙 GitHub: https://github.com/dineshmanigopal
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💡  I enjoy building systems where **hardware meets intelligence**
+💡 I enjoy building systems where **hardware design meets real-world intelligence**
 
 ---
 
 <p align="center">
-  ⭐ <i>" Engineering the future through embedded intelligence"</i>
+  ⭐ <i>"Engineering the future through silicon and code"</i>
 </p>
