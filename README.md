@@ -37,7 +37,9 @@
 ### 🔌 Embedded & Communication Protocols
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,matlab,cst,stm32" />
+  <img src="https://skillicons.dev/icons?i=arduino,matlab,c" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/STMicroelectronics_logo.svg" height="50"/>
+  <img src="https://seeklogo.com/images/C/cst-studio-suite-logo-5B3E2D2E9E-seeklogo.com.png" height="50"/>
 </p>
 
 * UART · SPI · I2C
@@ -93,16 +95,6 @@
 * 🐍 **Python Essentials** – Cisco NetAcad
 * 🔌 **Introduction to Embedded Systems** – ARM
 * 🔲 **Digital Design & System Design through Verilog** – NPTEL
-
----
-
-## 🎓 Education
-
-| Qualification | Institute / Board | Score |
-|---|---|---|
-| B.Tech – ECE | — | GPA: 8.6 |
-| Diploma – ECE | SBTET | 93% |
-| 10th Grade | Sri Chaitanya E.M School | 92% |
 
 ---
 
