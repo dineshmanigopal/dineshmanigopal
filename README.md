@@ -37,9 +37,7 @@
 ### 🔌 Embedded & Communication Protocols
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,matlab,c" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/STMicroelectronics_logo.svg" height="50"/>
-  <img src="https://seeklogo.com/images/C/cst-studio-suite-logo-5B3E2D2E9E-seeklogo.com.png" height="50"/>
+  <img src="https://skillicons.dev/icons?i=arduino,matlab"/>
 </p>
 
 * UART · SPI · I2C
