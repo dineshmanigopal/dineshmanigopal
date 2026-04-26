@@ -37,7 +37,7 @@
 ### 🔌 Embedded & Communication Protocols
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,matlab,CST" />
+  <img src="https://skillicons.dev/icons?i=arduino,matlab,cst,stm32" />
 </p>
 
 * UART · SPI · I2C
@@ -47,7 +47,7 @@
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion" />
 </p>
 
 * Xilinx Vivado · Arduino IDE
