@@ -9,14 +9,12 @@
 
 ## 💡 About Me
 
-* 🎓 B.Tech – Electronics & Communication Engineering (GPA: 8.6)
+* 🎓 B.Tech – Electronics & Communication Engineering
 * 🏢 Currently interning at **DRDO-LRDE** (Feb 2026 – Present)
 * 🔬 Focused on **VLSI Design, RTL Development & Embedded Systems**
 * ⚙️ Hands-on experience with **Verilog/VHDL, FPGA, ASIC flow & communication protocols**
 * 🧠 Designed a **custom 32-bit processor core** in Verilog HDL
 * 🚀 Passionate about bridging **hardware design and intelligent systems**
-
-> *"To obtain a challenging position in VLSI / Embedded Systems domain where I can apply my knowledge of RTL design, processor architecture, and embedded programming to contribute effectively to organisational growth while continuously enhancing my technical expertise."*
 
 ---
 
@@ -25,7 +23,7 @@
 ### 👨‍💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,Ardiuno" />
 </p>
 
 `C` · `C++` · `Python (Basic)`
@@ -39,7 +37,7 @@
 ### 🔌 Embedded & Communication Protocols
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino,matlab,CST" />
 </p>
 
 * UART · SPI · I2C
