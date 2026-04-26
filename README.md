@@ -98,18 +98,18 @@
 ## 📫 Connect With Me
 
 <p>
-  📧 Email: your-email@gmail.com <br>
-  💼 LinkedIn: https://linkedin.com/in/your-profile  
+  📧 Email: dineshmanigopal.gidda@gmail.com <br>
+  💼 LinkedIn: https://linkedin.com/in/dineshmanigopal
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 I enjoy building systems where **hardware meets intelligence**
+💡  I enjoy building systems where **hardware meets intelligence**
 
 ---
 
 <p align="center">
-  ⭐ <i>"Engineering the future through embedded intelligence"</i>
+  ⭐ <i>" Engineering the future through embedded intelligence"</i>
 </p>
