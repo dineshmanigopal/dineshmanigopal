@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh Mani</h1>
+<h1 align="center">Hi 👋, I'm Dinesh Mani Gopal</h1>
 <h3 align="center">Embedded Systems | IoT | DSP | VLSI Enthusiast</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### 👨‍💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,matlab" />
 </p>
 
 ### 🔌 Embedded & Hardware
@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-* MATLAB, Proteus, Xilinx, Multisim
+* MATLAB, Xilinx, CST
 
 ---
 
